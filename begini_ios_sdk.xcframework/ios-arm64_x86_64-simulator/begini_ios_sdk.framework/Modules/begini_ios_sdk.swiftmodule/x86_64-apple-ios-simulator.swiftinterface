@@ -480,7 +480,7 @@ extension Foundation.Data {
 }
 @objc @_inheritsConvenienceInitializers public class BeginiAuthorize : ObjectiveC.NSObject {
   public static let shared: begini_ios_sdk.BeginiAuthorize
-  public func BeginiDataSdkOptions(integration_id: Swift.String, api_key: Swift.String, isContactsEnabled: Swift.Bool, isProfileEnabled: Swift.Bool, isBatteryEnabled: Swift.Bool, isWifiEnabled: Swift.Bool, isGalleryExifDataEnabled: Swift.Bool, isCalendarEnabled: Swift.Bool, isLocationEnabled: Swift.Bool, primaryColor: UIKit.UIColor, delegate: begini_ios_sdk.BeginiAuthorizeDelegate, presentingVC: UIKit.UIViewController)
+  public func BeginiDataSdkOptions(integration_id: Swift.String, api_key: Swift.String, isContactsEnabled: Swift.Bool, isProfileEnabled: Swift.Bool, u_id: Swift.String, isBatteryEnabled: Swift.Bool, isWifiEnabled: Swift.Bool, isGalleryExifDataEnabled: Swift.Bool, isCalendarEnabled: Swift.Bool, isLocationEnabled: Swift.Bool, primaryColor: UIKit.UIColor, delegate: begini_ios_sdk.BeginiAuthorizeDelegate, presentingVC: UIKit.UIViewController)
   @objc override dynamic public init()
   @objc deinit
 }

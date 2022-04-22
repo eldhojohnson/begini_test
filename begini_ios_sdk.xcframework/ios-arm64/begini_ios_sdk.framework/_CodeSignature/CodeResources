@@ -26,11 +26,11 @@
 		</data>
 		<key>Modules/begini_ios_sdk.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		+hrKYNrLKhcJlWs/1OsLEKi+ui8=
+		gPN1F/Mg0QG0FdwSvCdsgi1up4E=
 		</data>
 		<key>Modules/begini_ios_sdk.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		jEFBW7lda9qDQcSjX/YiwU+Z2oI=
+		lHqbLYPC4Q1DegCGXR8iOsbwahE=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -107,14 +107,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Fx06XPadhB0gK02nb8HVj0SNFwbwt/t1nWnzr+hpK/I=
+			8WaUBZ86+kef76j0bDNaMJ35Kg3LFGUIg6r/sK17e3w=
 			</data>
 		</dict>
 		<key>Modules/begini_ios_sdk.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			9eiN4RogUA5iVqrH/qTLnTka+1uVY5LCBd16e2TCsMQ=
+			1e7KqVsrl/wkqf2EDDHA38+j7s0sOvB/TjK/WS8ygec=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
